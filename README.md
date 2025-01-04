@@ -11,7 +11,13 @@ Dynamic Programming is a powerful algorithmic technique used for solving problem
 
 ---
 
-## 🗂️ Repository Structure
+## 🌱 Why I Built This Repository?
 
-This repository is organized into folders based on the type of problems or topics in Dynamic Programming. Here's how the structure looks:
+I believe the best way to learn is by doing, and this repository serves as my personal diary for solving DP problems. Here’s why I created it:
+1. To track my progress as I master Dynamic Programming.
+2. To build a reference of well-documented solutions for myself and others.
+3. To share learning tips and techniques with the community.
 
+## 🚀 Let's Master Dynamic Programming Together!
+
+Dynamic Programming can be daunting at first, but with consistent practice and exploration, it becomes one of the most rewarding problem-solving techniques. Join me on this journey as we conquer DP one problem at a time! 🎉
