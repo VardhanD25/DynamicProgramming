@@ -2,7 +2,7 @@
 
 Welcome to my **Dynamic Programming (DP)** repository! This space is dedicated to documenting my problem-solving journey as I explore, learn, and master the art of solving problems using **Dynamic Programming**. 
 
-Whether you're just starting with DP or looking for well-documented solutions for reference, this repository has something for everyone.
+Whether you're just starting with DP or looking for well-documented solutions for reference, this repository has something for everybody.
 
 ---
 
